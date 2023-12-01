@@ -8,3 +8,6 @@ console.log('Start Application');
 
 // VERSION 0.0.3 - First Commit
 // VERSION 0.0.3 - Second Commit
+
+console.log('Complete application in v1')
+// VERSION 0.0.3 - Second Commit
