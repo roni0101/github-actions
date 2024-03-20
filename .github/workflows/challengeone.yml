@@ -1,5 +1,9 @@
 name: Chanllenge One
-on: push
+on: 
+  push:
+    branches: [develop]
+  release:
+    types: [released]
 jobs:
     job1:
         name: JobUbuntu
